@@ -15,6 +15,8 @@ Juntamente com este documento, você terá acesso também aos arquivos abaixo:
 
 ```Devkit```: é um app de ajuda que acessa os serviços e tem alguns exemplos. Com ele, você consegue validar se os serviços de hardware estão funcionando corretamente.
 
+![img] https://github.com/leonardogiovelli/leonardogiovelli.github.io/blob/master/gpos700front.png
+
 You can use the [editor on GitHub](https://github.com/leonardogiovelli/leonardogiovelli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
