@@ -7,13 +7,13 @@ Essa especificação pode ser alterada no futuro e a Getnet poderá solicitar qu
 
 Juntamente com este documento, você terá acesso também aos arquivos abaixo:
 
-Rebatedor.apk: aplicativo que simula as chamadas (deeplinks) de pagamento.
+```Rebatedor.apk```: aplicativo que simula as chamadas (deeplinks) de pagamento.
 
-Getnet_service: é o serviço do SDK que fica rodando no terminal que se comunica com os recursos de hardware;
+```Getnet_service```: é o serviço do SDK que fica rodando no terminal que se comunica com os recursos de hardware;
 
-Libposdigital: é a interface do SDK que deve ser compilado com o seu app para se comunicar com o serviço
+```Libposdigital```: é a interface do SDK que deve ser compilado com o seu app para se comunicar com o serviço
 
-Devkit: é um app de ajuda que acessa os serviços e tem alguns exemplos. Com ele, você consegue validar se os serviços de hardware estão funcionando corretamente.
+```Devkit```: é um app de ajuda que acessa os serviços e tem alguns exemplos. Com ele, você consegue validar se os serviços de hardware estão funcionando corretamente.
 
 You can use the [editor on GitHub](https://github.com/leonardogiovelli/leonardogiovelli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
